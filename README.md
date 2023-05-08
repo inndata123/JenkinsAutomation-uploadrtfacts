@@ -1,2 +1,2 @@
 # JenkinsAutomation
-Codebase for Jenkins automation tutorial
+jenkins automation for uploading artifacts
